@@ -1,5 +1,6 @@
 # OnlineGiftShoppingSystem
 Skills used are HTML,CSS,PHP,JavaScript.
+
 Install xampp from the internet and start apache and MySQL
 Create a database named "users"
 Create a table named "users" with 7 columns with the following details
